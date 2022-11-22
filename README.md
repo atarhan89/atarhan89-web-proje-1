@@ -1,6 +1,6 @@
 # atarhan89-web-proje-1
 
-<h1> ilk html proje olışturuldu </h1>
+<h1> ilk html proje oluşturuldu </h1>
 
 html + css
 
